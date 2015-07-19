@@ -1,0 +1,2 @@
+# Khu vườn địa đàng #
+SkyGarden 1.3.0 được đánh giá là bước đổi mới mang tính đột phá của tựa game Khu Vườn Địa Đàng từ trước đến nay. Với sự cải tiến: theme mới, hoa mới cực “độc”, item mới biết cử động, game mini mới, hệ thống tiền tệ Ken v.v… sẽ giúp cho Khu Vườn Địa Đàng 130 sinh động hơn hẳn các phiên bản cũ, hứa hẹn mang đến sự trải nghiệm vô cùng thú vị cho người chơi.
